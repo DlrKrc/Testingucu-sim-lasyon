@@ -1,0 +1,1 @@
+Bu kod, bir hipotezin gücünü (power) hesaplamak için bir simulasyon gerçekleştirir. Belirli bir anlamlılık düzeyinde (alpha) bir hipotez testinin, farklı alternatif hipotez değerleri (mu1) altında ne kadar etkili olduğunu gösterir.
